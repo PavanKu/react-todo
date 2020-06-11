@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Task /> should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxhCb biRedW"
+  >
+    <input
+      checked=""
+      class="sc-AxjAm bLKDEa"
+      id="1"
+      type="checkbox"
+    />
+    <label
+      class="sc-AxirZ ctbNrS"
+      for="1"
+    >
+      Buy Milk
+    </label>
+    <button
+      class="sc-AxiKw bJbxvS"
+    />
+  </div>
+</div>
+`;

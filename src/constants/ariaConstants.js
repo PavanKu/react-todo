@@ -1,0 +1,18 @@
+const ARIA_ROLE_HEADING = "heading";
+const ARIA_ROLE_TEXTBOX = "textbox";
+const ARIA_ROLE_CHECKBOX = "checkbox";
+const ARIA_ROLE_BUTTON = "button";
+const ARIA_ROLE_TABLIST = "tablist";
+const ARIA_ROLE_TAB = "tab";
+
+const ARIA_TAB_SELECTED_ATTRIBUTE = "aria-selected";
+
+export {
+  ARIA_ROLE_HEADING,
+  ARIA_ROLE_TEXTBOX,
+  ARIA_ROLE_CHECKBOX,
+  ARIA_ROLE_BUTTON,
+  ARIA_ROLE_TABLIST,
+  ARIA_ROLE_TAB,
+  ARIA_TAB_SELECTED_ATTRIBUTE,
+};

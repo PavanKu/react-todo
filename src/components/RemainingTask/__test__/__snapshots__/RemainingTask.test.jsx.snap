@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RemainingTask /> should match 0 count snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm gmZGCr"
+  >
+    Hurray! No item left
+  </div>
+</div>
+`;
+
+exports[`<RemainingTask /> should match plural count snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm gmZGCr"
+  >
+    3 items left
+  </div>
+</div>
+`;
+
+exports[`<RemainingTask /> should match singular count snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm gmZGCr"
+  >
+    1 item left
+  </div>
+</div>
+`;

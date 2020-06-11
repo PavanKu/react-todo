@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Tab /> should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-AxjAm dsugUK"
+    role="tablist"
+  >
+    <button
+      aria-selected="true"
+      class="sc-AxirZ jNUtew"
+      role="tab"
+      type="button"
+    >
+      All
+    </button>
+    <button
+      aria-selected="false"
+      class="sc-AxirZ cCWkAh"
+      role="tab"
+      type="button"
+    >
+      Active
+    </button>
+    <button
+      aria-selected="false"
+      class="sc-AxirZ cCWkAh"
+      role="tab"
+      type="button"
+    >
+      Completed
+    </button>
+  </div>
+</div>
+`;
