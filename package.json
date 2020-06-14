@@ -26,9 +26,9 @@
   },
   "jest": {
     "collectCoverageFrom" : [
-      "src/**/*.{js,jsx}",
-      "!<rootDir>/node_modules/",
-      "!src/**/*.stories.{js,jsx}"
+      "**/*.{js,jsx}",
+      "!**/node_modules/**",
+      "!**/*.stories.{js,jsx}"
     ],
     "coverageThreshold": {
       "global": {
