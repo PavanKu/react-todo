@@ -11,3 +11,5 @@ https://pavanku.github.io/react-todo/
 ##### Storybook
 
 ##### React Testing Library
+
+#### CI/CD
