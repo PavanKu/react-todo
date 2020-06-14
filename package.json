@@ -28,7 +28,7 @@
     "collectCoverageFrom" : [
       "**/*.{js,jsx}",
       "!**/node_modules/**",
-      "!**/*.stories.{js,jsx}"
+      "!**/*.{stories,styled}.{js,jsx}"
     ]
   },
   "browserslist": {
